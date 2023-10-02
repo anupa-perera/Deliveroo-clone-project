@@ -2,5 +2,6 @@ The Deliveroo Clone test project is an ambitious undertaking aimed at replicatin
 
 
 
-Uploading Desktop 2023.10.02 - 11.20.11.02.mp4…
+
+https://github.com/anupa-perera/Deliveroo/assets/121441837/39254715-aca9-4688-9b5a-a22b5403465b
 
